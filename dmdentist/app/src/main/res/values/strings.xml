@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DentalMate Dentist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="hauclinic">Holy Angel University Dental Clinic</string>
+
+    <string name="hauclinicadd">1 Holy Angel St, Angeles, 2009 Pampanga</string>
+    <string name="clinichours">Clinic Hours:</string>
+    <string name="hauhours"></string>
+
+
+</resources>

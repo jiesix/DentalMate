@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "324448604858",
+    "firebase_url": "https://dentalmate-400c7.firebaseio.com",
+    "project_id": "dentalmate-400c7",
+    "storage_bucket": "dentalmate-400c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324448604858:android:8ec367b99ed57bfad4e883",
+        "android_client_info": {
+          "package_name": "com.example.kpmadan.otshealthproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324448604858-uf9612o3g6fgltpe05mpcvqf1m7gvlev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kpmadan.otshealthproject",
+            "certificate_hash": "3d9586eae23b7bc9719ae5333dbf1c9855e4ad8a"
+          }
+        },
+        {
+          "client_id": "324448604858-kud2tg9fb2occmg6ekhpq4tgm2ta58uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0cHFsjYSQfAFVJSST8xEufnDsFx1NCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324448604858-kud2tg9fb2occmg6ekhpq4tgm2ta58uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324448604858:android:671aa889e681c95ad4e883",
+        "android_client_info": {
+          "package_name": "com.test.dm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324448604858-3u00lkl58fl6hcqpevjbo9v6k43393fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.dm",
+            "certificate_hash": "3d9586eae23b7bc9719ae5333dbf1c9855e4ad8a"
+          }
+        },
+        {
+          "client_id": "324448604858-91ondnvish4objrmqamqlg7fccuka9mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.dm",
+            "certificate_hash": "b7fbf1b1257e6566e017d5b293bab162ace927cb"
+          }
+        },
+        {
+          "client_id": "324448604858-kud2tg9fb2occmg6ekhpq4tgm2ta58uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0cHFsjYSQfAFVJSST8xEufnDsFx1NCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324448604858-kud2tg9fb2occmg6ekhpq4tgm2ta58uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

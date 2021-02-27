@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecordsFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="25dp"
+        android:src="@mipmap/dmlogo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MANAGE RECORDS"
+        android:textSize="30dp"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Patient List"
+        android:textSize="20dp"
+        android:layout_marginTop="250dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/manageRecords"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD PATIENT"
+        android:textSize="20dp"
+        android:layout_marginTop="300dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EDIT PATIENT"
+        android:textSize="20dp"
+        android:layout_marginTop="350dp"
+        android:layout_gravity="center_horizontal"/>
+
+
+</FrameLayout>
